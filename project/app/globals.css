@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+footer {
+  background-color: #919191;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 20px;
+}
+.footerContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+}
